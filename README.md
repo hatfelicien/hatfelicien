@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hategekimana Felicien Bero</h1>
-<h3 align="center">A passionate frontend developer from Rwanda</h3>
+<h3 align="center">A passionate Software developer from Rwanda</h3>
 
 - 🔭 I’m currently working on **the pulse project and Nancy store**
 
